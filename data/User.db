@@ -1,0 +1,7 @@
+{"status":"admin","warns":[],"first_name":"Telegram","last_name":"","id":777000,"_id":"CDHlgnhGOjAqWUWo"}
+{"status":"admin","warns":[],"first_name":"Genemator Sakhib","last_name":"","id":756870298,"username":"sakhib_orzklv","_id":"OcJzSrvNfIiMk0Q1"}
+{"status":"member","warns":[],"first_name":"Kakashi","last_name":"Xatake","id":129207598,"username":"kakashi_xatake","_id":"rr8lsfCwofjsjwlo"}
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}
+{"$$indexCreated":{"fieldName":"status","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"username","unique":true,"sparse":true}}
+{"status":"member","warns":[],"first_name":"Mukhammadyusuf","last_name":"Abdurakhimov","id":701469970,"username":"iblogs_uz","_id":"rJFK37pDRpcJpfRS"}
