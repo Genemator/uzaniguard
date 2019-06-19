@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheDevs-Network/bot.git"
+    "url": "git+https://github.com/Genemator/uzaniguard.git"
   },
   "keywords": [
     "bot",
@@ -27,9 +27,9 @@
   ],
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/TheDevs-Network/the-guard-bot/issues"
+    "url": "https://github.com/Genemator/uzaniguard/issues"
   },
-  "homepage": "https://t.me/uzhackintosh",
+  "homepage": "https://github.com/Genemator/uzaniguard",
   "dependencies": {
     "daggy": "^1.3.0",
     "dedent-js": "^1.0.1",

@@ -1,3 +1,7 @@
 node_modules
 .gitignore
 .idea/
+.DS_Store
+assets/.DS_Store
+config.js
+yarn.lock
